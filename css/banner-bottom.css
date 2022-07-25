@@ -1,0 +1,24 @@
+.banner-bottom  img {
+    width: 1320px;
+    height:560px;
+    margin-top: 60px;
+}
+
+.banner-bottom div .col-4 {
+    font-family: 'Liberation Serif';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 53px;
+    color: #000000;
+    padding: 0;   
+    margin-top:37px ;
+}
+
+.banner-bottom div .col-5 {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 32px;
+    color: #000000;
+    margin-top:40px ;
+}

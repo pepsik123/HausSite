@@ -1,0 +1,61 @@
+.header-top div svg {
+    position: absolute;
+    top: 25px;
+    left: calc((100% - 84px) / 2);
+}
+
+.header-top .row:first-child { 
+    background: url("../image/img1.jfif") no-repeat;
+    background-size: 50%;
+    height: 900px;
+}
+
+.header-top .row:last-child {
+    background-color: #996B60;
+}
+
+.header-top ul li {
+    list-style-type: none;
+    color: white;
+
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    padding: 38px 60px;
+}
+
+
+.header-text {
+    padding-left: 60px;
+    padding-top: 250px;
+    padding-right: 60px;
+}
+
+.header-text article {
+    font-family: 'Liberation Serif';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 73px;
+    line-height: 96px;
+    color: #FFFFFF;
+}
+
+.header-text p {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 32px;
+    color: #FFFFFF;
+    padding:34px 0;
+}
+
+.header-text button {
+    background: inherit;
+    border: 1px solid white;
+    text-transform: uppercase;
+    padding: 15px 52px;
+    font-size: 13px;
+}
+

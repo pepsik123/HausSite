@@ -1,0 +1,72 @@
+.footer-banner .container-fluid {
+    background: url(../image/476bc8283229fedd0e7880533dc926a2.jfif) no-repeat;
+    background-size: 100%;
+    height: 690px;
+    margin-top: 60px;
+}
+
+.footer-banner .col-5 div:first-child {
+    background-color: black;
+    margin: 60px;
+    height: 350px;
+}
+
+
+.footer-banner .col-5 p:first-child {
+    font-family: 'Liberation Serif';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 65px;
+    text-align: center;
+    color: #FFFFFF;
+    padding-top: 40px;
+}
+
+.footer-banner .col-5 p:nth-child(2) {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 30px;
+    text-align: center;
+    color: #FFFFFF;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.footer-banner button {
+    background: #FFFFFF;
+    border: 1px solid #FFFFFF;
+    height: 52px;
+    width: 180px;
+
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    text-align: center;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #000000;
+    margin-left:235px;
+    margin-top: 10px;
+} 
+
+
+.footer-banner .col-5 div:nth-child(2) {
+    background-color: black;
+    height: 145px;
+    margin: 60px;
+}
+
+.footer-banner .col-5 div:nth-child(2) p:first-child {
+    font-weight: 400;
+    font-size: 23px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.footer-banner ul li {
+    list-style-type: none;
+    color: white;
+    text-transform: uppercase;
+    font-size: 15px;
+}

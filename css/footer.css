@@ -1,0 +1,77 @@
+.footer {
+    background-color: black;
+    padding:  50px;
+}
+
+
+.footer p:first-child {
+    font-family: 'Liberation Serif';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 42px;
+    color: #FFFFFF;
+}
+
+.footer p:nth-child(2) {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    color: #FFFFFF;   
+}
+
+.footer div .paragraph {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 9px;
+    text-align: left;
+    letter-spacing: 0.12px;
+    text-transform: uppercase; 
+    color: #818181;
+    padding-top: 20px;
+    padding-left: 15px;
+}
+
+.footer div .paragraph_1 {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    text-align: left;
+    letter-spacing: 0.12px;
+    text-transform: uppercase; 
+    color: white;
+    padding-top: 20px;
+    padding-left: 15px;
+}
+
+.footer hr {
+    color: #FFFFFF;
+}
+
+.footer ul li {
+    list-style-type: none;
+    text-transform: uppercase;
+    line-height: 3;
+    color: rgba(255, 255, 255, 0.6);
+    font-size: 12px;
+
+}
+
+.footer ul li:first-child {
+    color: #FFFFFF;
+    font-size: 14px;
+    padding-bottom: 30px;
+}
+
+.footer_footer a {
+    text-transform: uppercase;
+    line-height: 3;
+    color: rgba(255, 255, 255, 0.6);
+    font-size: 14px;
+    text-decoration: none;
+    padding: 0 60px;
+}
+
+
+.footer_footer a:first-child {
+    color: white;
+}

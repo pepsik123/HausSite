@@ -1,0 +1,36 @@
+.footer-top .row .col-5 img {
+    height: 530px;
+    width: 600px;
+    margin-left: 50px;
+    margin-top: 60px;
+}
+
+.footer-top .row .col-7 p:first-child {
+    font-family: 'Liberation Serif';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    color: #000000;
+    margin-top: 90px;
+    line-height: 1.2;
+}
+
+.footer-top .row .col-7 p:nth-child(2) {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 32px;
+    color: #000000;  
+    margin-top: 154px;  
+    width: 900px;
+}
+
+.footer-top .row p:last-child {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    padding-top: 20px;
+    color: #000000;
+}

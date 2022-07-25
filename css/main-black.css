@@ -1,0 +1,24 @@
+.main-black {
+    margin-top: 150px;
+    background-color: black;
+}
+
+.main-black .row {
+    text-align: center;
+}
+
+.main-black .row p:first-child {
+    width: 310px;
+    margin-left: 160px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;    
+    text-align: center;
+    color: #FFFFFF;
+    padding-top: 50px;
+}
+
+.main-black .row p:nth-child(2) {
+    color: #FFFFFF;
+    text-transform: uppercase;
+}
